@@ -1,4 +1,4 @@
-# Enigma_Machine_Maher
+# Enigma_Machine
 Fully functional Enigma Machine
 #### Project features:
 1. Randomized Rotors 
